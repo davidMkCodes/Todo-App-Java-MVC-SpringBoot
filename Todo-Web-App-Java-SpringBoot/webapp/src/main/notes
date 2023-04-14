@@ -1,0 +1,8 @@
+Simple backend-focused todo list web application
+
+Technologies used
+- Java
+- Spring Boot, MVC, Security
+- jpa and hibernate
+- Maven
+- MySQL
